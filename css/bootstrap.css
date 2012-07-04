@@ -272,6 +272,10 @@ a:hover {
   margin-left: 580px;
 }
 
+label{
+	color:red;
+}
+
 .offset6 {
   margin-left: 500px;
 }
